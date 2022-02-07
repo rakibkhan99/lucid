@@ -1,0 +1,317 @@
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    .mobile-btn i.fas{
+        color: white;
+    }
+    .a0{
+        width: 14%;
+    }
+    .b0{
+        width: 21%;
+    }
+    .c0{
+        width: 15%;
+    }
+    .d0{
+        width: 30%;
+    }
+    .e0{
+        width: 17%;
+    }
+    .f0{
+        width: 19%;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .banner-content h1{
+        width: auto;
+        font-size: 36px;
+
+    }
+    .banner-content p{
+        width: auto;
+        font-size: 15px;
+    }
+    .banner-button ul li{
+        margin-right: 4px !important;
+        display: inline-block;
+    }
+    .banner-img{
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    .amazing-feature-icncontent{
+        margin-top: 25px;
+    }
+    .amazing-feature-icncontent p{
+        margin-bottom: 10px;
+    }
+    .beutiful-device-contentup{
+        text-align: center;
+    }
+    .beutiful-device-contentup h5{
+        margin-top: 25px;
+    }
+    .beutiful-device-contentup p{
+        width: auto;
+    }
+    .beutiful-device-section .col-md-1{
+        width: 15%;
+    }
+    .beutiful-device-section .col-md-11{
+        width: 70%;
+    }
+    .beutiful-icn{
+        padding-left: 36px;
+    }
+    .beutiful-logo-content {
+        padding-left: 32px;
+      }
+      .super-easy-content{
+        text-align: center;
+    }
+    .w-100{
+        height: 50vh;
+    }
+    .carousel-content{
+        bottom: -60%;
+    }
+    .pricing-comment h3{
+        font-size: 15px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .pricing-customer-name{
+        margin-left: 0px;
+    }
+    .pricing-customer-name h5{
+        font-size: 14px !important;
+    }
+    .great-theme-content h1{
+        font-size: 29px;
+    }
+    .great-theme-section .banner-button {
+        margin-top: 0px;
+        padding-bottom: 20px;
+      }
+    .great-theme-section .banner-button ul li {
+        margin-right: 0px !important;
+        display: inline-block;
+        margin-left: 10px;
+      }
+      .contact-button {
+        margin-left: 22%;
+        margin-bottom: 12px;
+      }
+    .right-table .mb-3 .form-control{
+        padding-bottom: 65px !important;
+      }
+    .right-table .mb-3 {
+        width: 91%;
+        margin-left: 14px;
+      }
+    .left-table .mb-3 {
+        width: 91%;
+        margin-left: 14px;
+      }
+  .table-parts{
+      width: 80%;
+      left: 10%;
+  }
+  .right-table{
+     margin-top: 0px;
+  }
+  .great-theme-section {
+    margin-top: 20px;
+  }
+}
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    .mobile-btn i.fas{
+        color: white;
+    }
+    .a0{
+        width: 14%;
+    }
+    .b0{
+        width: 21%;
+    }
+    .c0{
+        width: 15%;
+    }
+    .d0{
+        width: 30%;
+    }
+    .e0{
+        width: 17%;
+    }
+    .f0{
+        width: 19%;
+    }
+    .banner-content h1{
+        width: auto;
+        font-size: 36px;
+
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .banner-content p{
+        width: auto;
+        font-size: 15px;
+    }
+    .banner-button ul li{
+        margin-right: 4px !important;
+        display: inline-block;
+    }
+    .banner-button ul li button{
+        padding: 15px 16px;
+    }
+    .banner-img{
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    .amazing-feature-icncontent{
+        margin-top: 25px;
+    }
+    .amazing-feature-icncontent p{
+        margin-bottom: 10px;
+    }
+    .beutiful-device-contentup{
+        text-align: center;
+    }
+    .beutiful-device-contentup h5{
+        margin-top: 25px;
+    }
+    .beutiful-device-contentup p{
+        width: auto;
+    }
+    .beutiful-device-section .col-md-1{
+        width: 15%;
+    }
+    .beutiful-device-section .col-md-11{
+        width: 70%;
+    }
+    .beutiful-icn{
+        padding-left: 36px;
+    }
+    .beutiful-logo-content {
+        padding-left: 32px;
+      }
+    .super-easy-content{
+        text-align: center;
+    }
+    .w-100{
+        height: 50vh;
+    }
+    .carousel-content{
+        bottom: -60%;
+    }
+    .pricing-comment h3{
+        font-size: 15px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .pricing-customer-name{
+        margin-left: 0px;
+    }
+    .pricing-customer-name h5{
+        font-size: 14px !important;
+    }
+    .great-theme-content h1{
+        font-size: 29px;
+    }
+    .great-theme-section .banner-button {
+        margin-top: 0px;
+        padding-bottom: 20px;
+      }
+    .great-theme-section .banner-button ul li {
+        margin-right: 0px;
+        display: inline-block;
+        margin-left: 10px;
+      }
+    .contact-button {
+        margin-left: 22%;
+        margin-bottom: 12px;
+      }
+    .right-table .mb-3 .form-control{
+        padding-bottom: 65px !important;
+      }
+    .right-table .mb-3 {
+        width: 91%;
+        margin-left: 14px;
+      }
+    .left-table .mb-3 {
+        width: 91%;
+        margin-left: 14px;
+      }
+  .table-parts{
+      width: 80%;
+      left: 10%;
+  }
+  .right-table{
+    margin-top: 0px;
+ }
+ .great-theme-section {
+    margin-top: 20px;
+  }
+}
